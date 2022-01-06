@@ -1,0 +1,8 @@
+name: ElytraChat
+version: '${project.version}'
+main: net.elytrapvp.elytrachat.ElytraChat
+api-version: 1.17
+depend: [ PlaceholderAPI ]
+authors: [ ElytraPvP ]
+description: Chat plugin for ElytraPvP
+website: http://www.elytrapvp.net
